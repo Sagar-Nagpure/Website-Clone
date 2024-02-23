@@ -25,4 +25,3 @@ The SIDCUP Family Golf Website Clone is built using the following technologies:
 HTML: Used to structure the content and layout of the website.
 CSS: Employed for styling and theming the website to match the original SIDCUP Family Golf website's appearance.
 JavaScript: Added for interactivity and dynamic behavior, enhancing the user experience.
-Getting Started
